@@ -8,5 +8,5 @@ For more details, readers are recommended to check the PDF file in the folder.
 
 Moreover, Maps of the results in PDF file are also includes that provides more visually appealing plots.
 - [Suitable_Area](https://github.com/HassanAli99/Wind-Energy-Potential-in-the-province-of-North-Holland/blob/main/Suitable_Area.pdf)
-- - [Energy production per Municipality]([https://github.com/HassanAli99/Wind-Energy-Potential-in-the-province-of-North-Holland/blob/main/Suitable_Area.pdf](https://github.com/HassanAli99/Wind-Energy-Potential-in-the-province-of-North-Holland/blob/main/Energy%20Production%20per%20municipality.pdf))
+- [Energy production per Municipality](https://github.com/HassanAli99/Wind-Energy-Potential-in-the-province-of-North-Holland/blob/main/Energy%20Production%20per%20municipality.pdf)
 
