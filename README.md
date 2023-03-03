@@ -1,7 +1,7 @@
 # Wind-Energy-Potential-in-the-province-of-North-Holland
 A study of Theoretical Energy Output from Wind Turbines
 
-This was written in a group project for the course Spatial data analysis and simulation modelling AND aims to evaluate the theoretical energy output from wind turbines to determine suitable areas for investment in the North Holland province. In response to the ongoing global warming, renewable energy sources are in high demand, and wind energy is one of the most efficient options. Scholars focus on various aspects, such as geographical, technical, and economic potentials, to determine the best suitable location. Therefore, the purpose of this study is to determine the suitable areas for wind turbines as well as evaluate the theoretical maximum energy production within these places.
+This was produced as part of a group assignment for the course Spatial data analysis and simulation modeling AND seeks to analyze the theoretical energy output from wind turbines in order to identify viable investment regions in the North Holland province. Renewable energy sources are in increasing demand as a reaction to continued global warming, and wind energy is one of the most efficient possibilities. Researchers consider a variety of factors, including geographical, technological, and economic possibilities, to find the best acceptable location. As a result, the goal of this research is to identify acceptable regions for wind turbines and to assess the potential maximum energy output within these areas.
 
 For more details, readers are recommended to check the PDF file in the folder.
  - [Read the full paper](https://github.com/HassanAli99/Wind-Energy-Potential-in-the-province-of-North-Holland/blob/main/Wind_Energy_in_North_Holland.pdf)
